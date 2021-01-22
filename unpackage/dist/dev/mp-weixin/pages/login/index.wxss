@@ -1,0 +1,49 @@
+@charset "UTF-8";
+/* 配色 */
+.icon-img.data-v-4586967a {
+  width: 32rpx;
+  height: 32rpx;
+}
+.header-info.data-v-4586967a {
+  width: 94%;
+  margin: 30rpx auto;
+  background: #FFFFFF;
+  box-shadow: 0px 0px 84rpx 0px rgba(204, 204, 204, 0.39);
+  border-radius: 30rpx;
+  padding: 30rpx 20rpx;
+  box-sizing: border-box;
+  z-index: 99999;
+}
+.input-con.data-v-4586967a {
+  height: 80rpx;
+  background: #EEEEEE;
+  border-radius: 16rpx;
+  padding-left: 20rpx;
+  box-sizing: border-box;
+  margin-bottom: 30rpx;
+}
+.input.data-v-4586967a {
+  height: 80rpx;
+  line-height: 80rpx;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.input-icon.data-v-4586967a {
+  width: 34rpx;
+  height: 34rpx;
+  margin-right: 30rpx;
+}
+.btn.data-v-4586967a {
+  line-height: 80rpx;
+  text-align: center;
+  background: #fe5f23;
+  border-radius: 16rpx;
+  font-size: 32rpx;
+  color: #EEFFFB;
+  position: fixed;
+  bottom: 100rpx;
+  width: 80%;
+  left: 10%;
+}
+

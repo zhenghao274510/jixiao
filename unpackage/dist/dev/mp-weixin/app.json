@@ -1,0 +1,40 @@
+{
+  "pages": [
+    "pages/author/index",
+    "pages/login/index",
+    "pages/index/index",
+    "pages/statistical/index",
+    "pages/index/de",
+    "pages/statistical/itemdetails",
+    "pages/statistical/details"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "玉树教师绩效管理",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#666666",
+    "selectedColor": "#333333",
+    "borderStyle": "white",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tabs/kaoke(moren)@2x.png",
+        "selectedIconPath": "static/tabs/kaoke@2x.png",
+        "text": "我的考核"
+      },
+      {
+        "pagePath": "pages/statistical/index",
+        "iconPath": "static/tabs/tongji@2x.png",
+        "selectedIconPath": "./static/tabs/xuanzhong@2x.png",
+        "text": "考核统计"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap40.json"
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "考核统计",
+  "usingComponents": {
+    "s-pull-scroll": "/components/s-pull-scroll/index",
+    "weixin-empty": "/components/xw-empty/xw-empty"
+  }
+}

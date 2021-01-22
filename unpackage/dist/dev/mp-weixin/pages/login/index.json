@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "玉树教师绩效管理",
+  "usingComponents": {
+    "evan-form": "/components/evan-form/evan-form",
+    "evan-from": "/components/evan-form/evan-form",
+    "evan-from-item": "/components/evan-form-item/evan-form-item",
+    "banner-list": "/components/swiper",
+    "lb-picker": "/components/lb-picker/index"
+  }
+}

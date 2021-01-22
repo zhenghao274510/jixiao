@@ -1,0 +1,27 @@
+
+.mine-options-con.data-v-a1fa4d52 {
+	width: 96%;
+	padding: 20rpx 0;
+	margin: 20rpx auto 0;
+	background: #FFFFFF;
+	border-radius: 16rpx;
+}
+.row-top.data-v-a1fa4d52 {
+	height: 96rpx;
+	padding: 0 24rpx;
+}
+.row-title.data-v-a1fa4d52 {
+	font-size: 30rpx;
+	font-weight: bold;
+}
+.row-bottom.data-v-a1fa4d52 {
+	width: 96%;
+	padding: 20rpx 24rpx;
+	margin: 20rpx auto;
+}
+.row-r-tips.data-v-a1fa4d52 {
+	color: #ff0000;
+	font-weight: bold;
+	font-size: 26rpx;
+}
+

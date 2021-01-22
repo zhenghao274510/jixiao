@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "玉树教师绩效管理",
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "mix-list-cell": "/components/mix-list-cell/mix-list-cell"
+  }
+}

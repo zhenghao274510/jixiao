@@ -1,0 +1,46 @@
+@charset "UTF-8";
+/* 配色 */
+.optimal.data-v-fb9825d6 {
+  color: #f0a83e;
+}
+.good.data-v-fb9825d6 {
+  color: #bbcedf;
+}
+.middle.data-v-fb9825d6 {
+  color: #d3ac6b;
+}
+.poor.data-v-fb9825d6 {
+  color: #c8c8c8;
+}
+.item_con.data-v-fb9825d6 {
+  width: 96%;
+  height: 90rpx;
+  padding: 0 20rpx;
+  border-radius: 10rpx;
+  margin: 20rpx auto 0;
+  background: #FFFFFF;
+  position: relative;
+}
+.left.data-v-fb9825d6 {
+  position: absolute;
+  left: 40rpx;
+  top: 0;
+  width: 49rpx;
+  height: 70rpx;
+}
+.left image.data-v-fb9825d6 {
+  width: 100%;
+  height: 100%;
+}
+.right.data-v-fb9825d6 {
+  padding-left: 140rpx;
+}
+.use-name.data-v-fb9825d6 {
+  text-align: center;
+  font-weight: bold;
+}
+.right-point.data-v-fb9825d6 {
+  font-size: 26rpx;
+  color: #666666;
+}
+
